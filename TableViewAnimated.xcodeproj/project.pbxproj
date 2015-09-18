@@ -156,6 +156,8 @@
 		C4E4E00A1BA05142007F544D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0700;
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = swiftcombat;
 				TargetAttributes = {
@@ -409,6 +411,7 @@
 				C4E4E0331BA05143007F544D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C4E4E0341BA05143007F544D /* Build configuration list for PBXNativeTarget "TableViewAnimatedTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +420,7 @@
 				C4E4E0361BA05143007F544D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
